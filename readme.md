@@ -1,0 +1,1 @@
+<p>This project is about the online hotel booking with the cheapest prices</p>
